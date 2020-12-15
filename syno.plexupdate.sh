@@ -15,7 +15,7 @@
 ###########################################################
 
 # A NEW UPDATE MUST BE THIS MANY DAYS OLD
-MinimumAge=7
+MinimumAge=0
 # PREVIOUSLY DOWNLOADED PACKAGES DELETED IF OLDER THAN THIS MANY DAYS
 OldUpdates=60
 # NETWORK TIMEOUT IN SECONDS (900s = 15m)
